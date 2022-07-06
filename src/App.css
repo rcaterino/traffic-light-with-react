@@ -3,26 +3,26 @@
   width: 300px;
   background: black; 
   padding: 30px; 
+  margin: auto;
 }
 
 .color {
   border-radius: 50%;
   width: 150px;
   height: 150px; 
-  margin: auto;
-  padding: 15PX;
+  margin: 20px auto;
 }
 .rojo{
   background: red;
-  margin: 20PX;
+ 
 }
 .amarillo {
   background: yellow;
-  margin: 20PX;
+  
 }
 .verde {
   background: green;
-  margin: 20PX;
+  
 }
 .glow {
   box-shadow: 0px 0px 9px 4px #747de8;
