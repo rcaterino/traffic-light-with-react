@@ -24,6 +24,7 @@ function App() {
         className={
           "color verde" + (selectedColor === "verde" ? " glow" : "")
         }>
+          <h4>Semáforo</h4>
       </div>
     </div>
   );
